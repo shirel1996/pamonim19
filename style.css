@@ -805,12 +805,11 @@ input[name='tab']:checked + .tab-content {
   position: relative;
 }
 
-.collapse a.kradit {
-  background-color: white;
-  color: var(--primaryColor);
-
-  border: 2px solid;
-}
+    .collapse a.Credit {
+        background-color: white;
+        color: var(--primaryColor);
+        border: 2px solid;
+    }
 
 .collapse a.dabit {
   background-color: white;
